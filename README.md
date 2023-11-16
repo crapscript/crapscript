@@ -1,0 +1,4 @@
+- Hi, I’m @crapscript
+- I’m interested in everything
+- I’m currently learning Python (i'm not so skilled yet)
+- I’m looking for someone willing to help me make a bigger Python project
